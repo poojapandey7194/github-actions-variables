@@ -1,1 +1,2 @@
 # Variables
+checking env var
